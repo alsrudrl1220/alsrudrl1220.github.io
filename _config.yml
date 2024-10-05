@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Welcome to my tech blog :)
 show_excerpts: true # set to true to show excerpts on the homepage
 url: https://alsrudrl1220.github.io/
-baseurl: /texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
