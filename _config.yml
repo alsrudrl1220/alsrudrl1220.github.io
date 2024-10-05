@@ -4,6 +4,7 @@ email: alsrudrl1220@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Welcome to my tech blog :)
 show_excerpts: true # set to true to show excerpts on the homepage
+url: https://alsrudrl1220.github.io/
 baseurl: /texture
 
 # Minima date format
@@ -22,9 +23,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    # twitter: thelehhman
-    github:  alsrudrl1220
-    # linkedIn: in/thelehhman
+    github: alsrudrl1220
     rss: rss
  
 
